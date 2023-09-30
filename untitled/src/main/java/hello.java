@@ -7,5 +7,11 @@ public class hello {
         System.out.println(45/8);
         System.out.println("privet " + " ya" + " tebya" + " lublu");
         System.out.println("74-ruf=" + (8 + 9));
+        var site = 8.;
+        System.out.println();
+        site = 9;
+        site = 7.0;
+
+
     }
 }
